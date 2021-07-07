@@ -1,0 +1,145 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 1rem;
+
+}
+.font{
+  font-weight: normal;
+  color: #11999E;
+  font-size: 2rem;
+}
+h1{
+  color:#66BFBF;
+  font-size: 5.60rem;
+  margin-top: 50px ;
+  font-family: 'Sacramento', cursive;
+  line-height: 0.2;
+
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+h2{
+  color:#66BFBF;
+font-family: 'Montserrat', sans-serif;
+font-size: 2.5rem;
+}
+a{
+  color: white;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: purple;
+}
+h3{
+
+  color:  #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+div{
+  background-color:  #EDF6E5;
+
+}
+.cloud2{
+
+  position: relative;
+  left: 700px;
+  top: 10px;
+  width: 300px;
+  height: 200px;
+}
+.cloud{
+  background-color: #EDF6E5;
+  position: relative;
+  right: 150px;
+  width: 300px;
+  height: 200px;
+
+}
+.cloud1{
+  background-color: #EDF6E5;
+  position: absolute;
+  /*top: 100px; --*/
+
+  top:80px;
+  bottom: 20px;
+  left : 150px;
+  width: 300px;
+  height: 200px;
+
+}
+
+.sun{
+  background-color: #EDF6E5;
+  position: relative;
+  top: 100px;
+  left: 70px;
+  width: 150px;
+  height: 150px;
+
+}
+
+.mountain{
+  background-color: #EDF6E5;
+  width: 700px;
+  height: 500px;
+  position: relative;
+  right:10px;
+
+
+}
+.mount{
+  background-color: #EDF6E5;
+  width: 700px;
+  height: 500px;
+  position: static;
+  left: 100px;
+
+}
+hr {
+
+  border-style: none;
+  border-top-style: dotted;
+  border-color: blue;
+  border-width: 6px;
+  width: 5%;
+}
+.middle{
+  margin: 0;
+}
+.hml{
+  width: 150px;
+
+  float: left;
+  margin-right: 30px;
+}
+.pain{
+  width: 150px;
+
+  float: right;
+  margin-left: 30px;
+}
+.btn{
+  background-color:#11999E ;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  border-radius: 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.bottom{
+  background-color: #11999E;
+ padding: 50px 0 20px;
+}
+.cr{
+  font-size: 0.6rem;
+  padding: 10px 20px;
+}
